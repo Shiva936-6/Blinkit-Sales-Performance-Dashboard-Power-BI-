@@ -74,10 +74,16 @@ Connect to your dataset or update data sources.
 
 Explore filters and visuals for customized analysis.
 
+---
+
 🧾 Author
 Created by: [Shivendra Pratap Singh]
+
 📧 Contact: [shivendra2408@gmail.com]
+
 🔗 LinkedIn: [https://github.com/Shiva936-6]
+
+---
 
 🏁 License
 This project is licensed under the MIT License.
