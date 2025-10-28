@@ -1,6 +1,6 @@
 # 📊 Blinkit Sales Performance Dashboard (Power BI)
 
-This repository contains a **Power BI dashboard** designed to analyze and visualize **Blinkit’s sales performance**, item distribution, and outlet insights.  
+Welcome to the Blinkit Sales Performance Dashboard project!This repository contains a **Power BI dashboard** designed to analyze and visualize **Blinkit’s sales performance**, item distribution, and outlet insights.  
 The dashboard provides an interactive and data-driven view of sales trends, item ratings, and outlet-level performance metrics to support business decision-making.
 
 ---
