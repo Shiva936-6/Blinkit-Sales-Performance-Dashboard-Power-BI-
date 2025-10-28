@@ -77,6 +77,6 @@ Connect to your dataset or update data sources.
 Explore filters and visuals for customized analysis.
 
 🧾 Author
-Created by: [Your Name]
-📧 Contact: [your.email@example.com]
-🔗 LinkedIn: [Your LinkedIn Profile]
+Created by: [Shivendra Pratap Singh]
+📧 Contact: [shivendra2408@gmail.com]
+🔗 LinkedIn: [https://github.com/Shiva936-6]
