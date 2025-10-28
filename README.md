@@ -54,6 +54,14 @@ The dashboard provides an interactive and data-driven view of sales trends, item
 
 ---
 
+## 📂 Repository Structure
+
+├── Screenshot1.png # Dashboard preview
+├── Blinkit_Sales.pbix # Power BI file (if included)
+└── README.md # Project documentation
+
+
+---
 
 ## 💡 How to Use
 
@@ -68,7 +76,16 @@ Explore filters and visuals for customized analysis.
 
 🧾 Author
 Created by: [Shivendra Pratap Singh]
-
 📧 Contact: [shivendra2408@gmail.com]
-
 🔗 LinkedIn: [https://github.com/Shiva936-6]
+
+🏁 License
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
